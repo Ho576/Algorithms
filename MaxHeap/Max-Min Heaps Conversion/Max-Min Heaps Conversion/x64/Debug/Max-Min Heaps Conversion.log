@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\DELL\Desktop\(NNU)\Student\Bachalorios\Major\CAP\2nd Year\الفصل الثاني\الفترة الاولى\algorithm\Folders\MaxHeap\Max-Min Heaps Conversion\Max-Min Heaps Conversion\Source.cpp(40,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\(NNU)\Student\Bachalorios\Major\CAP\2nd Year\الفصل الثاني\الفترة الاولى\algorithm\Folders\MaxHeap\Max-Min Heaps Conversion\Max-Min Heaps Conversion\Source.cpp(49,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Desktop\(NNU)\Student\Bachalorios\Major\CAP\2nd Year\الفصل الثاني\الفترة الاولى\algorithm\Folders\MaxHeap\Max-Min Heaps Conversion\Max-Min Heaps Conversion\Source.cpp(53,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Max-Min Heaps Conversion.vcxproj -> C:\Users\DELL\Desktop\(NNU)\Student\Bachalorios\Major\CAP\2nd Year\الفصل الثاني\الفترة الاولى\algorithm\Folders\MaxHeap\Max-Min Heaps Conversion\x64\Debug\Max-Min Heaps Conversion.exe
